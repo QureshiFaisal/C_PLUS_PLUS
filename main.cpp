@@ -1,4 +1,7 @@
 #include "iostream"
+#include "cstdlib"
+
+using namespace std;
 
 int main()
 {
@@ -9,6 +12,9 @@ int main()
   std::cout << "No really!!," << favorite_number << " is my favorite number" << std::endl;
 
   return 0;
+
+  
+  
 }
 /* #inclue - preprocessor
 main, cout, cin are identifiers
@@ -18,3 +24,6 @@ std is standard namespace
 as the standard namespace then this is used to distinguish
 >> extraction operator
 << insertion operator*/
+
+//___________________________FUNCTIONS__________________________
+
