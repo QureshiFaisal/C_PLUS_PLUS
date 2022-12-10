@@ -2,6 +2,7 @@
   "files.associations": {
     "*.ejs": "html",
     "\"*.ejs\"": "\"html\"",
-    "chrono": "cpp"
+    "chrono": "cpp",
+    "iostream": "cpp"
   }
 }
